@@ -1,0 +1,16 @@
+your identification has been saved in /Users/Aaron/.ssh/id_rsa.
+Your public key has been saved in /Users/Aaron/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:hFs2xXHYQgmIKlfswtKsogZe6ANfAQ03crtvkhNbqzg Admin@aaron.com
+The key's randomart image is:
++---[RSA 2048]----+
+|  o++. ..++=.    |
+|  .+=o.. .=..    |
+| + =. . =  .     |
+|o B o. = .       |
+| =..o.o S        |
+|=. ..* .         |
+|B...= +          |
+|.=E. =           |
+|. o..            |
++----[SHA256]-----+
